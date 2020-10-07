@@ -1,6 +1,7 @@
 from os import chdir
 
-#Enter the path to file QA_VISUALS.txt
+#First, enter the path to file QA_VISUALS.txt
+#Example path
 path = 'C:/DDaCT/SSC-1779/Comparison1'
 chdir(path)
 
