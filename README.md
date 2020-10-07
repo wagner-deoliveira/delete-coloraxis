@@ -10,7 +10,7 @@ Then, simply:
 python delete-coloraxis.py
 ```
 
-If you're using Visual Studio Code, you can run this script directly by clicking on the green triangle located at top right corner. Alternatevily, you can use Ctrl+Shift+P (Windows) and write
+If you're using Visual Studio Code, you can run this script directly by clicking on the green triangle located at top right corner. Alternatively, you can use Ctrl+Shift+P (Windows) and write
 ```
 Run Python File in Terminal
 ```
