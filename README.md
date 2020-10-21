@@ -2,7 +2,7 @@
 Simple Python script to save all the lines of QA_VISUALS in a new file that does not contains "coloraxis"
 
 ## How to use:
-First, be sure to have entered the correct file path in the delete-coloraxis.py.  
+First, be sure that you have entered the correct file paths in delete-coloraxis.py.  
 Choose a name for the new file that should be saved (e.g. sample.txt).  
 
 Then, simply:
