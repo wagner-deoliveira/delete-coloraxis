@@ -7,6 +7,11 @@ chdir(path)
 
 with open("QA_VISUALS.txt", "r") as qa_file:
     lines = qa_file.readlines()
+   
+#Path to where you want to save the modified file, without coloraxis information
+#Example path
+save_path = 'C:/Users/Desktop'
+chdir(save_path)
 
 with open("sample.txt", "w") as new_file:
     for line in lines:
